@@ -1,4 +1,4 @@
-## UPDATE-Full stck
+## UPDATE-Full stack
 Find the full stack of the Gadget Manager project here [Gadget Manager](https://github.com/thibedi-phathela/GadgetManager-Full_Stack). 
 
 #  Gadget Manager

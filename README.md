@@ -1,5 +1,5 @@
 ## UPDATE-Full stack
-Find the full stack of the Gadget Manager project here [Gadget Manager](https://github.com/thibedi-phathela/GadgetManager-Full_Stack). 
+Find the full stack of the Gadget Manager project here [Gadget Manager-full stack](https://github.com/thibedi-phathela/GadgetManager-Full_Stack). 
 
 #  Gadget Manager
 Gadget Manager is a RESTful API for managing gadgets/devices. It allows you to add and keep track of your priceless devices,  With Gadget Manager, you can easily organize and manage your collection of gadgets, making it convenient to retrieve information about each device whenever you need it.

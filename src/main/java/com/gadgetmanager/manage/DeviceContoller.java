@@ -29,7 +29,7 @@ public class DeviceContoller {
 	public Optional<Device> getDevice(@PathVariable long deviceId){
 		return deviceService.getDevice(deviceId);	
 	}
-	
+
 	@PostMapping("/devices")
 	public void addDevice(@RequestBody Device device){
 			deviceService.addDevice(device);
@@ -39,7 +39,7 @@ public class DeviceContoller {
 	public void updateDevice(@RequestBody Device device, @PathVariable long deviceId) {
 		deviceService.updateDevice(device, deviceId);
 	}
-	
+
 	@DeleteMapping("/devices/{deviceId}")
 	public void deleteDevice(@PathVariable long deviceId){
 		deviceService.deleteDevice(deviceId);	
